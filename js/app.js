@@ -18,7 +18,7 @@ $(document).ready(function() {
         };
 
         generateColor () {
-            let colorOptions = ['#537938', '#F9D42C', '#F17105', '#D11149', '#6610F2', '#1A8FE3'];
+            let colorOptions = ['#FFFFFF', '#F9D42C', '#F17105', '#D11149', '#6610F2', '#1A8FE3'];
             let color = Math.floor(Math.random() * colorOptions.length);
             this.color = colorOptions[color];
         }
