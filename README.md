@@ -1,1 +1,1 @@
-# Copy of Flood It! by caranocreative with changed colors
+# Copy of Flood It! by caranocreative with one changed color and more turns allowed
