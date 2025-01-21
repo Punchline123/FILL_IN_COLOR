@@ -2,7 +2,7 @@
 const gameBoard = [[], [], [], [], [], [], [], [], [], [], [], []];  
 let matchList = [];
 let canList = []; 
-let score = 21;
+let score = 24;
 let playing = true;
 
 $(document).ready(function() {   
